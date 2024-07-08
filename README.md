@@ -8,7 +8,7 @@
 </p>
 
 ## Database File Below 
-<a href="https://we.tl/t-eL4MgW8V0w">Database File</a>
+<a href="https://we.tl/t-eL4MgW8V0w" target="_blank">Database File</a>
 
 
 ## About Laravel
